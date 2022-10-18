@@ -1,1 +1,1 @@
-# Sloving-math-word-problems
+# Solving-math-word-problems
